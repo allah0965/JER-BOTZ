@@ -23,7 +23,7 @@ global.owner = ['263780699988'] // UBAH NOMOR YANG MAU DI JADIKAN OWNER
 global.sessionName = 'session' // GAK USAH UBAH
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿'] // GAK USAH UBAH
 global.sewabot = ("SEWA CHAT OWNER") // ISI HARGA SEWA BOT LU
-global.fakelink = "https://s.id/jeraja" // bebas asal jan hapus
+global.fakelink = "https://instagram.com/mr_juice7" // bebas asal jan hapus
 global.grubbot = (`*JOIN MY GROUP*\n\nhttps://chat.whatsapp.com/GRuUvhCqhHK08msKMadAji`) // GANTI LINK GRUB BOT LU \\
 // -- \\
 // FALSE OR TRUE \\
